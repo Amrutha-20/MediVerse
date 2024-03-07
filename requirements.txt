@@ -1,0 +1,9 @@
+streamlit
+googletrans
+pathlib
+speechrecognition
+pyttsx3
+gtts
+google-generativeai
+PIL
+setuptools
