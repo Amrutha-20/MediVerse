@@ -7,4 +7,4 @@ gtts
 google-generativeai
 Pillow
 setuptools
-streamlit-option-menu
+streamlit-option-menu==0.3.12
