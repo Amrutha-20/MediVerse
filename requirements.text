@@ -1,5 +1,5 @@
 streamlit-option-menu
-streamlit
+streamlit==0.69.0
 streamlit-lottie
 googletrans
 pathlib
